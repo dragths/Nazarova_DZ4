@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "тумаков5глава", "ConsoleApp4\тумаков5глава.csproj", "{4446B8A6-0FE8-4B1B-B85E-C8056735389E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задания4шт", "Задания4шт\Задания4шт.csproj", "{FC07CA6F-CAFE-40B3-851F-50EE4DC9ED19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4446B8A6-0FE8-4B1B-B85E-C8056735389E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4446B8A6-0FE8-4B1B-B85E-C8056735389E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4446B8A6-0FE8-4B1B-B85E-C8056735389E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4446B8A6-0FE8-4B1B-B85E-C8056735389E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC07CA6F-CAFE-40B3-851F-50EE4DC9ED19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC07CA6F-CAFE-40B3-851F-50EE4DC9ED19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC07CA6F-CAFE-40B3-851F-50EE4DC9ED19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC07CA6F-CAFE-40B3-851F-50EE4DC9ED19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40FB4069-8726-422C-A9F7-0AABEA9BA081}
+	EndGlobalSection
+EndGlobal
